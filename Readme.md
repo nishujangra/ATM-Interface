@@ -113,15 +113,7 @@ Choose an option: 1
 Current Balance: $100
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by basic banking operations and ATM functionalities.
 - Built with C++ to demonstrate object-oriented programming and simple user authentication.
-
----
-
-This README provides a comprehensive overview of the project, instructions for setup and usage, and examples of how to interact with the ATM interface.
