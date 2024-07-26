@@ -113,6 +113,10 @@ Choose an option: 1
 Current Balance: $100
 ```
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
 ## Acknowledgments
 
 - Inspired by basic banking operations and ATM functionalities.
